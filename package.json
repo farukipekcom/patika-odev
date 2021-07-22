@@ -1,0 +1,16 @@
+{
+  "name": "patika-odev1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "type": "module",
+  "dependencies": {
+    "axios": "^0.21.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node app"
+  },
+  "author": "",
+  "license": "ISC"
+}
